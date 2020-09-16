@@ -1,8 +1,8 @@
 Build a Pomodoro timer that can teach us about rendering in React.
 
 React skills used in this app:
-Creating timers
-React state w/ useState()
-React effects w/ useEffect()
-React refs w/ useRef()
-Parent and child components
+- Creating timers
+- React state w/ useState()
+- React effects w/ useEffect()
+- React refs w/ useRef()
+- Parent and child components
